@@ -1,4 +1,4 @@
-[English](./README_en.md) | [中文](./README.md)
+[English](./README_EN.md) | [中文](./README.md)
 # K8sSkill - Kubernetes智能诊断助手
 
 基于SRE最佳实践的Kubernetes智能诊断工具，支持在IDE内通过自然语言对话执行诊断。
