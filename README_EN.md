@@ -1,4 +1,4 @@
-[English](./README_EN.md) | [中文](./README.md)
+<a href="./README.md">中文</a> | <a href="./README_EN.md">English</a>
 # K8sSkill - Kubernetes Intelligent Diagnostic Assistant
 
 Kubernetes intelligent diagnostic tool based on SRE best practices, supports natural language conversation diagnosis within IDE.
