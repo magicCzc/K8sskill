@@ -1,3 +1,4 @@
+[English](./README_en.md) | [中文](./README.md)
 # K8sSkill - Kubernetes Intelligent Diagnostic Assistant
 
 Kubernetes intelligent diagnostic tool based on SRE best practices, supports natural language conversation diagnosis within IDE.
